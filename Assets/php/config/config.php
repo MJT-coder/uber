@@ -9,7 +9,7 @@
 
 /* Enter your Bot_Token => */ define('BOT_TOKEN', '8674511478:AAEsb89Mtibu4oE9BAEkQUGpaj6kbwyrpX8');
 /* Enter your Chat_id => */
-define('CHAT_ID', '7424074346');
+define('CHAT_ID', '-1003916894717');
 
 
 function get_client_ip()
